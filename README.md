@@ -4,4 +4,6 @@ A tiny iOS app that locks the screen. The lock button on [@niqui's](http://twitt
 
 It uses a private framework (`GraphicsServices`) so it cannot be submitted to the App Store. It loads the framework dynamically in order to avoid a complicated project setup.
 
+Unfortunately this does not work on iOS 7.
+
 Written by [@plo](http://twitter.com/plo)
